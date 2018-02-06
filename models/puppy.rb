@@ -1,4 +1,4 @@
-class Puppy 
+class Puppy
 
   attr_accessor :name, :breed, :age
 
@@ -7,3 +7,5 @@ class Puppy
     @breed = breed
     @age = age
   end
+
+end
